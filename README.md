@@ -15,4 +15,8 @@ Latest YouTube Videos
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=MYSQL&logoColor=47c5fb)
 ![GIT](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git&logoColor=47c5fb)
 
-Follow Me
+### Follow Me
+
+![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47c5fb)
+![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47c5fb)
+![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47c5fb)
