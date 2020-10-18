@@ -20,3 +20,6 @@ Latest YouTube Videos
 ![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47c5fb)
 ![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47c5fb)
 ![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47c5fb)
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=birkinmax)](https://github.com/anuraghazra/github-readme-stats)
