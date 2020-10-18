@@ -1,4 +1,4 @@
-[![Header](https://github.com/birkinmax/birkinmax/blob/master/assets/header.png)]
+![Header](https://github.com/birkinmax/birkinmax/blob/master/assets/header.png)
 
 ## I'm a web and mobile developer
 
