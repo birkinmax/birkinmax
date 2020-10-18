@@ -13,5 +13,6 @@ Latest YouTube Videos
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux&logoColor=ffd400)
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java&logoColor=ff0000)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=MYSQL&logoColor=47c5fb)
+![GIT](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git&logoColor=47c5fb)
 
 Follow Me
