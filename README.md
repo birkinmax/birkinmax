@@ -13,6 +13,7 @@
 -
 
 ### Languages and Tools
+[![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=Kotlin&logoColor=47c5fb)](#languages-and-tools)
 [![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47c5fb)](#languages-and-tools)
 [![Dart](https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=dart&logoColor=2bb7f6)](#languages-and-tools)
 [![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=ffca28)](#languages-and-tools)
